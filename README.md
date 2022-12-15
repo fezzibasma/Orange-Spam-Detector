@@ -8,7 +8,7 @@ One of the main pain point that AT&amp;T users are facing is constant exposure t
 
 Mail : fezzibasma@gmail.com
 
-Vidyard Link : [#](https://share.vidyard.com/watch/JahVymiEY5KXERvv8au1Uc?) 
+Vidyard Link : [#](https://share.vidyard.com/watch/p4EFPYfTdjqbfbd9MqcsmJ?) 
 
 
 ## Company's Description 📇
