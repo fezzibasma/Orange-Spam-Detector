@@ -26,7 +26,7 @@ State the achieved performance clearly
 
 
 # Result 
-## Sequential Model ( training less than 1 min for 50 epoches )
+## Sequential Simple Model ( training less than 1 min for 50 epoches )
 
 <img width="1295" alt="image" src="https://user-images.githubusercontent.com/23299967/207969501-480e61e9-c2a5-447c-81ee-b6fa2c755fbb.png">
 
@@ -42,4 +42,4 @@ State the achieved performance clearly
 
 <img width="466" alt="image" src="https://user-images.githubusercontent.com/23299967/207969946-2c4992a9-d146-4a3f-8fce-8a721479e5be.png">
 
-The easiest model is fast to train and got better results ! 
+The easiest model "Sequential Simple Model" is fast to train and got better results ! 
