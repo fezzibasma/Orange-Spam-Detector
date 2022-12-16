@@ -42,4 +42,4 @@ State the achieved performance clearly
 
 <img width="466" alt="image" src="https://user-images.githubusercontent.com/23299967/207969946-2c4992a9-d146-4a3f-8fce-8a721479e5be.png">
 
-mmh seems like the easiest model is the best! 
+The easiest model is fast to train and got better results ! 
