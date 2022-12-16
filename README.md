@@ -30,6 +30,8 @@ State the achieved performance clearly
 
 <img width="1295" alt="image" src="https://user-images.githubusercontent.com/23299967/207969501-480e61e9-c2a5-447c-81ee-b6fa2c755fbb.png">
 
+<img width="1318" alt="image" src="https://user-images.githubusercontent.com/23299967/208184977-6c651b16-3ccf-4997-9951-cc07163378e0.png">
+
 
 ## Transfer Learning using BERT Model ( training for 5 epoches = 2 hours ) 
 ## Credit hub.KerasLayer to import BERT pretained model : https://www.tensorflow.org/hub/api_docs/python/hub/KerasLayer
